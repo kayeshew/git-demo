@@ -47,3 +47,12 @@ Repository -- like a folder/container that stores files/folders related to a pro
 
 *	git log --oneline
 		-condensed version of the git log
+
+* 	git push
+		- uploading files/folders from local repo to remote repo
+
+* 	git pull
+		- retrieving changes from a remote repo and merges them into your local repo
+
+* 	git clone 
+		- creating a copy of a remote repo on your local machine
